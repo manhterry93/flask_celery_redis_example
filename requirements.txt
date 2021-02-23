@@ -1,0 +1,5 @@
+flask
+celery==4.4.6
+flask-mail
+redis
+flower
